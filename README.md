@@ -6,7 +6,7 @@
 ### I'm Faricade (AKA "Minister of Bwah")
 
 Silly person, failure of a gamedev, and a wall of text creator (writer)  
-Currently developing: [GAMF](https://github.com/Faricade/GAMF)
+Currently developing: [Forecast](https://github.com/Faricade/Forecast) & [BADP](https://github.com/Faricade/BADP)
 
 [![Main Language](https://img.shields.io/badge/Main%20Language-C%23-blueviolet?style=for-the-badge&logo=sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/learn/csharp)
 [![Coffee](https://img.shields.io/badge/Coffee-Flat_White-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://en.wikipedia.org/wiki/Flat_white)
