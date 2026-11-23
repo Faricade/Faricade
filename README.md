@@ -6,7 +6,7 @@
 ### I'm Faricade (AKA "Minister of Bwah")
 
 Silly person, failure of a gamedev, and a wall of text creator (writer)  
-Currently developing: [Serein](https://github.com/Faricade/Serein)
+Currently developing: ...
 
 [![Main Language](https://img.shields.io/badge/Main%20Language-C%23-blueviolet?style=for-the-badge&logo=sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/learn/csharp)
 [![Coffee](https://img.shields.io/badge/Coffee-Flat_White-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://en.wikipedia.org/wiki/Flat_white)
@@ -20,6 +20,6 @@ Currently developing: [Serein](https://github.com/Faricade/Serein)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZPHVx8qREm)
 [![Tumblr](https://img.shields.io/badge/Tumblr-35465C?style=for-the-badge&logo=tumblr&logoColor=white)](https://tumblr.com/faricade)
 [![Reddit](https://img.shields.io/badge/Reddit-ff4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/faricade)
-[![itch.io](https://img.shields.io/badge/itch.io_(empty)-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://faricade.itch.io)
+[![My site](https://img.shields.io/badge/ciku.dev-FC60A8?style=for-the-badge&logo=AwesomeLists&logoColor=white)](https://ciku.dev)
 
 </div>
